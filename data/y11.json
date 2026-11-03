@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "y11-medicine-renaissance-medicine-01",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Who published an accurate book on human anatomy in 1543, challenging Galen?",
+    "options": [
+      "Andreas Vesalius",
+      "William Harvey",
+      "Ambroise Paré",
+      "Thomas Sydenham"
+    ],
+    "answer": 0,
+    "explanation": "Vesalius’s De humani corporis fabrica was based on dissection."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-02",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What did William Harvey show in 1628?",
+    "options": [
+      "Blood circulates around the body, pumped by the heart",
+      "Germs cause disease",
+      "Blood is made in the liver",
+      "Smallpox can be prevented"
+    ],
+    "answer": 0,
+    "explanation": "This contradicted Galen, but it did not lead to new treatments at the time."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-03",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What did Ambroise Paré use instead of cauterising wounds?",
+    "options": [
+      "Ligatures",
+      "Anaesthetic",
+      "Antiseptic",
+      "Leeches"
+    ],
+    "answer": 0,
+    "explanation": "Tying blood vessels reduced pain and shock for wounded soldiers."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-04",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "How did the printing press help medicine?",
+    "options": [
+      "It spread new ideas and books more widely",
+      "It cured diseases",
+      "It made surgery safer",
+      "It created hospitals"
+    ],
+    "answer": 0,
+    "explanation": "Medical books, including Vesalius’s, reached many more readers."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-05",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Which epidemic hit London in 1665?",
+    "options": [
+      "The Great Plague",
+      "Cholera",
+      "The Black Death",
+      "Smallpox"
+    ],
+    "answer": 0,
+    "explanation": "Treatments such as quarantining houses had little effect because the cause was still unknown."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-06",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What does ‘Renaissance’ mean?",
+    "options": [
+      "A revolution",
+      "Rebirth of interest in learning, art and science",
+      "A new religion",
+      "A type of plague"
+    ],
+    "answer": 1,
+    "explanation": "It began in Italy and spread across Europe."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-07",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What did Vesalius discover about Galen’s anatomy?",
+    "options": [
+      "Galen was wrong, for example the jawbone is one bone",
+      "Galen was right",
+      "Galen dissected humans",
+      "Vesalius found germs"
+    ],
+    "answer": 0,
+    "explanation": "He based his findings on human dissection."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-08",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Which book did Vesalius publish in 1543?",
+    "options": [
+      "Complete Herbal",
+      "The Canon of Medicine",
+      "On the Fabric of the Human Body",
+      "On the Motion of the Heart"
+    ],
+    "answer": 2,
+    "explanation": "It had accurate illustrations."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-09",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Why did some doctors reject Vesalius’s ideas?",
+    "options": [
+      "They trusted Galen and did not want to be challenged",
+      "They had no books",
+      "They were afraid of dead bodies",
+      "They could not read"
+    ],
+    "answer": 0,
+    "explanation": "Change was slow."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-10",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "How did Paré treat gunshot wounds after 1537?",
+    "options": [
+      "With herbs only",
+      "With amputation",
+      "With an ointment instead of boiling oil",
+      "With bleeding"
+    ],
+    "answer": 2,
+    "explanation": "He ran out of oil."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-11",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What did Paré use to stop bleeding after amputation?",
+    "options": [
+      "Pressure from a cloth",
+      "Boiling oil",
+      "Ligatures",
+      "Cauterising irons"
+    ],
+    "answer": 2,
+    "explanation": "This was safer than cautery."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-12",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What did William Harvey show in 1628 about the heart?",
+    "options": [
+      "It is the seat of the soul",
+      "It makes blood",
+      "It pumps blood around the body in a circuit",
+      "It warms blood"
+    ],
+    "answer": 2,
+    "explanation": "This challenged Galen."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-13",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What could Harvey not explain?",
+    "options": [
+      "How blood moved from arteries to veins",
+      "That blood circulates",
+      "What the heart did",
+      "Where the heart was"
+    ],
+    "answer": 0,
+    "explanation": "Capillaries were found later by Malpighi."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-14",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What was the impact of Harvey’s work on treatment?",
+    "options": [
+      "It ended bleeding",
+      "It created hospitals",
+      "Little immediate change, as bleeding continued",
+      "It led to vaccines"
+    ],
+    "answer": 2,
+    "explanation": "It was important for understanding the body."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-15",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What was the aim of the Royal Society, founded in 1660?",
+    "options": [
+      "To treat plague",
+      "To promote scientific experiment",
+      "To run hospitals",
+      "To teach doctors"
+    ],
+    "answer": 1,
+    "explanation": "It encouraged evidence-based science."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-16",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Why was Leeuwenhoek’s microscope work not linked to disease?",
+    "options": [
+      "His lens was too weak",
+      "No one connected microbes with illness",
+      "He kept it secret",
+      "It was banned"
+    ],
+    "answer": 1,
+    "explanation": "Germ theory came later."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-17",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What was a quack?",
+    "options": [
+      "Someone who falsely claimed to cure disease and sold remedies",
+      "An apothecary",
+      "A midwife",
+      "A trained surgeon"
+    ],
+    "answer": 0,
+    "explanation": "Quacks sold remedies to people who could not afford doctors."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-18",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "How did the authorities try to control plague in 1665?",
+    "options": [
+      "By vaccinating people",
+      "By boiling water",
+      "By shutting infected households in with a red cross on the door",
+      "By cleaning rats"
+    ],
+    "answer": 2,
+    "explanation": "Watchmen enforced the quarantine."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-19",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "What happened to many hospitals after the Dissolution of the Monasteries?",
+    "options": [
+      "They expanded",
+      "They were unaffected",
+      "They became schools",
+      "Many closed, though some were refounded"
+    ],
+    "answer": 3,
+    "explanation": "St Bartholomew’s was refounded."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-20",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Who was John Hunter?",
+    "options": [
+      "The inventor of anaesthetic",
+      "A plague doctor",
+      "A surgeon who made surgery more scientific through dissection and experiment",
+      "A physician to Henry VIII"
+    ],
+    "answer": 2,
+    "explanation": "His pupils included Jenner."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-21",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "How did inoculation (variolation) work?",
+    "options": [
+      "Boiling water",
+      "Giving a person a small dose of smallpox",
+      "Using antibiotics",
+      "Using cowpox"
+    ],
+    "answer": 1,
+    "explanation": "It was risky."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-22",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "Why did some people oppose Jenner’s vaccination?",
+    "options": [
+      "It did not work",
+      "It caused plague",
+      "Doctors made money from inoculation and some thought it unnatural",
+      "It was expensive"
+    ],
+    "answer": 2,
+    "explanation": "Cartoons mocked it."
+  },
+  {
+    "id": "y11-medicine-renaissance-medicine-23",
+    "topic": "y11-medicine-renaissance-medicine",
+    "question": "When did vaccination become compulsory for babies?",
+    "options": [
+      "1875",
+      "1840",
+      "1853",
+      "1796"
+    ],
+    "answer": 2,
+    "explanation": "Free vaccination came in 1840."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-01",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did Edward Jenner use to create a smallpox vaccine in 1796?",
+    "options": [
+      "Cowpox",
+      "Penicillin",
+      "Carbolic acid",
+      "Chloroform"
+    ],
+    "answer": 0,
+    "explanation": "He tested it on James Phipps. He did not know why it worked."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-02",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did Louis Pasteur’s germ theory (1861) show?",
+    "options": [
+      "Microbes cause decay and disease",
+      "Disease is caused by bad air",
+      "Vaccines work",
+      "Blood circulates"
+    ],
+    "answer": 0,
+    "explanation": "Germ theory was the key breakthrough in understanding the causes of disease."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-03",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Who developed the use of carbolic acid as an antiseptic in surgery in 1865?",
+    "options": [
+      "Joseph Lister",
+      "James Simpson",
+      "Robert Koch",
+      "Edwin Chadwick"
+    ],
+    "answer": 0,
+    "explanation": "Lister used carbolic spray to reduce infection after operations."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-04",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Which anaesthetic did James Simpson introduce in 1847?",
+    "options": [
+      "Chloroform",
+      "Ether",
+      "Laughing gas",
+      "Morphine"
+    ],
+    "answer": 0,
+    "explanation": "Anaesthetics allowed longer operations, but infection remained a problem until antiseptics."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-05",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did the 1875 Public Health Act require local councils to do?",
+    "options": [
+      "Provide clean water and sewers",
+      "Pay for vaccinations",
+      "Build hospitals",
+      "Ban smoking"
+    ],
+    "answer": 0,
+    "explanation": "It followed pressure after cholera outbreaks and the work of reformers such as Chadwick."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-06",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Which scientist identified the bacteria that cause tuberculosis in 1882?",
+    "options": [
+      "Robert Koch",
+      "Louis Pasteur",
+      "Joseph Lister",
+      "Paul Ehrlich"
+    ],
+    "answer": 0,
+    "explanation": "Koch also identified the bacteria for anthrax and cholera."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-07",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did Pasteur’s swan-necked flask experiments show?",
+    "options": [
+      "Bacteria cause cholera",
+      "Microbes in the air cause decay",
+      "Microbes appear by magic",
+      "The air is clean"
+    ],
+    "answer": 1,
+    "explanation": "This challenged the idea of spontaneous generation."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-08",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did Pasteur’s vaccines for chicken cholera and anthrax show?",
+    "options": [
+      "Cowpox was needed",
+      "Vaccination could be used to prevent other diseases",
+      "Germs do not exist",
+      "Antibiotics worked"
+    ],
+    "answer": 1,
+    "explanation": "He later developed a rabies vaccine."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-09",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Which disease did Pasteur’s vaccine treat in 1885?",
+    "options": [
+      "Rabies",
+      "Cholera",
+      "Smallpox",
+      "Plague"
+    ],
+    "answer": 0,
+    "explanation": "Joseph Meister was the first patient."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-10",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What technique did Koch use to study bacteria?",
+    "options": [
+      "Staining them and growing them on solid agar plates",
+      "Chemistry",
+      "Microscopes alone",
+      "Inoculation"
+    ],
+    "answer": 0,
+    "explanation": "This allowed bacteria to be identified."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-11",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Which disease did Koch identify the bacterium for in 1876?",
+    "options": [
+      "Anthrax",
+      "Plague",
+      "Tuberculosis",
+      "Typhoid"
+    ],
+    "answer": 0,
+    "explanation": "He identified the TB bacterium in 1882."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-12",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Why did Koch and Pasteur compete?",
+    "options": [
+      "They disagreed on vaccines",
+      "National rivalry between Germany and France",
+      "They were from the same lab",
+      "They worked in the same city"
+    ],
+    "answer": 1,
+    "explanation": "The war of 1870–71 added tension."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-13",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What was Behring’s achievement in 1890?",
+    "options": [
+      "A cholera vaccine",
+      "Penicillin",
+      "An antitoxin for diphtheria",
+      "Anaesthetic"
+    ],
+    "answer": 2,
+    "explanation": "It was a treatment, not a vaccine."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-14",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What is a magic bullet?",
+    "options": [
+      "A chemical that kills a specific microbe without harming the patient",
+      "A type of surgery",
+      "A vaccine",
+      "A herbal remedy"
+    ],
+    "answer": 0,
+    "explanation": "Ehrlich coined the idea."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-15",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Why was germ theory accepted slowly?",
+    "options": [
+      "It had no evidence",
+      "It was banned",
+      "Doctors held on to miasma theory and Pasteur was a chemist, not a doctor",
+      "It was too expensive"
+    ],
+    "answer": 2,
+    "explanation": "Change took years."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-16",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Who demonstrated ether as an anaesthetic in Boston in 1846?",
+    "options": [
+      "William Morton",
+      "James Simpson",
+      "Joseph Lister",
+      "Robert Liston"
+    ],
+    "answer": 0,
+    "explanation": "Liston used it in London soon after."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-17",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Why was chloroform quickly adopted after 1847?",
+    "options": [
+      "It was cheap",
+      "It had no risks",
+      "Simpson promoted it and Queen Victoria used it in 1853",
+      "It was completely safe"
+    ],
+    "answer": 2,
+    "explanation": "It could still be dangerous."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-18",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What was a problem with chloroform?",
+    "options": [
+      "It was too weak",
+      "It caused infection",
+      "Overdoses could stop the heart",
+      "It was rare"
+    ],
+    "answer": 2,
+    "explanation": "Deaths such as Hannah Greener’s worried doctors."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-19",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Why did some people oppose anaesthetics in childbirth?",
+    "options": [
+      "It was too expensive",
+      "They thought pain was God’s will",
+      "It was ineffective",
+      "It was banned by law"
+    ],
+    "answer": 1,
+    "explanation": "Genesis was used as an argument."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-20",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did Semmelweis show in 1847?",
+    "options": [
+      "Handwashing with chlorinated lime reduced deaths in childbirth",
+      "Anaesthetic was safe",
+      "Antibiotics worked",
+      "Germs cause cholera"
+    ],
+    "answer": 0,
+    "explanation": "He was ignored by many."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-21",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Why did Lister use carbolic acid?",
+    "options": [
+      "To heal bones",
+      "To kill germs in wounds and on instruments",
+      "To numb pain",
+      "To clean floors"
+    ],
+    "answer": 1,
+    "explanation": "He was inspired by Pasteur."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-22",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What was the effect of Lister’s methods?",
+    "options": [
+      "Surgery became painless",
+      "Anaesthetics were banned",
+      "Operations got longer",
+      "Death rates after surgery fell sharply"
+    ],
+    "answer": 3,
+    "explanation": "In his wards, deaths fell from about 45 per cent to 15 per cent."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-23",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "Why did some surgeons resist Lister?",
+    "options": [
+      "The carbolic spray was unpleasant and they doubted germ theory",
+      "It was too cheap",
+      "It was ineffective",
+      "It was dangerous"
+    ],
+    "answer": 0,
+    "explanation": "Many stuck with old methods."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-24",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What is aseptic surgery?",
+    "options": [
+      "Using antiseptics on wounds",
+      "Using vaccines",
+      "Using chloroform",
+      "Keeping everything sterile so that germs never enter"
+    ],
+    "answer": 3,
+    "explanation": "It used sterilised instruments, gowns and gloves."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-25",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "When did the first cholera epidemic hit Britain?",
+    "options": [
+      "1875",
+      "1665",
+      "1848–49",
+      "1831–32"
+    ],
+    "answer": 3,
+    "explanation": "It killed thousands."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-26",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did Chadwick’s 1842 report recommend?",
+    "options": [
+      "More hospitals",
+      "Clean water and sewers to improve health",
+      "Rationing",
+      "Vaccination"
+    ],
+    "answer": 1,
+    "explanation": "He linked disease to filth."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-27",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What was a weakness of the 1848 Public Health Act?",
+    "options": [
+      "It was not compulsory for councils",
+      "It cost nothing",
+      "It applied only to London",
+      "It banned sewers"
+    ],
+    "answer": 0,
+    "explanation": "Many councils ignored it."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-28",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did John Snow show in 1854?",
+    "options": [
+      "Cholera spread through contaminated water",
+      "Cholera came from rats",
+      "Cholera was a plague",
+      "Cholera was carried in the air"
+    ],
+    "answer": 0,
+    "explanation": "He traced it to the Broad Street pump."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-29",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What was the Great Stink of 1858?",
+    "options": [
+      "A smell from the Thames that pushed Parliament to act on sewers",
+      "A plague outbreak",
+      "A strike",
+      "A fire"
+    ],
+    "answer": 0,
+    "explanation": "Bazalgette built London’s sewers."
+  },
+  {
+    "id": "y11-medicine-industrial-medicine-30",
+    "topic": "y11-medicine-industrial-medicine",
+    "question": "What did the 1875 Public Health Act require?",
+    "options": [
+      "Housing for all",
+      "Free hospitals",
+      "Councils to provide clean water and sewers and appoint a medical officer",
+      "Free vaccination"
+    ],
+    "answer": 2,
+    "explanation": "It was compulsory."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-01",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Who discovered penicillin in 1928?",
+    "options": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Paul Ehrlich",
+      "Gerhard Domagk"
+    ],
+    "answer": 0,
+    "explanation": "Fleming noticed mould killing bacteria. Florey and Chain made it usable in the 1940s."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-02",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "When was the NHS created?",
+    "options": [
+      "1948",
+      "1911",
+      "1942",
+      "1968"
+    ],
+    "answer": 0,
+    "explanation": "Aneurin Bevan’s NHS provided free healthcare for everyone."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-03",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What was Salvarsan 606, developed in 1909?",
+    "options": [
+      "The first ‘magic bullet’ drug, for syphilis",
+      "A vaccine for polio",
+      "An antibiotic",
+      "An anaesthetic"
+    ],
+    "answer": 0,
+    "explanation": "Paul Ehrlich’s chemical treatment targeted one disease."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-04",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Who discovered the structure of DNA in 1953?",
+    "options": [
+      "Watson and Crick",
+      "Fleming and Florey",
+      "Doll and Hill",
+      "Koch and Pasteur"
+    ],
+    "answer": 0,
+    "explanation": "Their work used data from Rosalind Franklin and led to genetic medicine."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-05",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What did Doll and Hill’s research of 1950 link?",
+    "options": [
+      "Smoking and lung cancer",
+      "Water and cholera",
+      "Diet and heart disease",
+      "Alcohol and liver disease"
+    ],
+    "answer": 0,
+    "explanation": "It led to government campaigns on the dangers of smoking."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-06",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Which document of 1942 laid the foundations for the welfare state?",
+    "options": [
+      "The Beveridge Report",
+      "The Public Health Act",
+      "The Factory Act",
+      "The Magna Carta"
+    ],
+    "answer": 0,
+    "explanation": "It argued for tackling want, disease, ignorance, squalor and idleness."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-07",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Who first noticed penicillin killing bacteria in 1928?",
+    "options": [
+      "Louis Pasteur",
+      "Ernst Chain",
+      "Alexander Fleming",
+      "Howard Florey"
+    ],
+    "answer": 2,
+    "explanation": "His discovery was partly by chance."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-08",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What role did Florey and Chain play?",
+    "options": [
+      "They created the NHS",
+      "They invented vaccines",
+      "They discovered it",
+      "They developed penicillin into a usable drug"
+    ],
+    "answer": 3,
+    "explanation": "They tested it on mice in 1940."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-09",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Why was penicillin mass-produced in the 1940s?",
+    "options": [
+      "Fleming won the Nobel Prize in 1928",
+      "Doctors had run out of vaccines",
+      "Wartime need for treatments and help from American drug companies",
+      "The NHS demanded it"
+    ],
+    "answer": 2,
+    "explanation": "It was ready for D-Day in 1944."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-10",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What was Prontosil?",
+    "options": [
+      "An anaesthetic",
+      "The first antibiotic",
+      "The first antibacterial drug, discovered in the 1930s",
+      "A vaccine"
+    ],
+    "answer": 2,
+    "explanation": "Domagk’s drug treated streptococcal infections."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-11",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What is antibiotic resistance?",
+    "options": [
+      "Antibiotics being banned",
+      "Antibiotics running out",
+      "Bacteria evolve so that drugs no longer kill them",
+      "Patients refusing antibiotics"
+    ],
+    "answer": 2,
+    "explanation": "Overuse makes it worse."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-12",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What are alternative treatments?",
+    "options": [
+      "Government schemes",
+      "Approaches such as acupuncture or homeopathy outside conventional medicine",
+      "Types of surgery",
+      "Treatments using antibiotics"
+    ],
+    "answer": 1,
+    "explanation": "Some are used alongside conventional medicine."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-13",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Who pioneered plastic surgery on facial injuries in the First World War?",
+    "options": [
+      "Harold Gillies",
+      "Archibald McIndoe",
+      "Joseph Lister",
+      "John Hunter"
+    ],
+    "answer": 0,
+    "explanation": "He worked at Sidcup."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-14",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Which discovery made safe blood transfusions possible?",
+    "options": [
+      "X-rays",
+      "Vaccines",
+      "Penicillin",
+      "Blood groups, discovered by Landsteiner"
+    ],
+    "answer": 3,
+    "explanation": "Sodium citrate then stopped clotting."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-15",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Who discovered X-rays in 1895?",
+    "options": [
+      "Marie Curie",
+      "Wilhelm Röntgen",
+      "Louis Pasteur",
+      "Alexander Fleming"
+    ],
+    "answer": 1,
+    "explanation": "They were used in war to find bullets."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-16",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What did the first successful kidney transplant in 1954 show?",
+    "options": [
+      "Organ transplants could work",
+      "Antibiotics worked",
+      "Blood groups mattered",
+      "Anaesthetics worked"
+    ],
+    "answer": 0,
+    "explanation": "Rejection was a problem until drugs improved."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-17",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What does keyhole surgery involve?",
+    "options": [
+      "Laser only",
+      "Small cuts and a camera, reducing recovery time",
+      "No anaesthetic",
+      "Large cuts"
+    ],
+    "answer": 1,
+    "explanation": "It is used for many operations."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-18",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What did Charles Booth’s survey of London find?",
+    "options": [
+      "Half lived in poverty",
+      "Poverty was rare",
+      "Almost no poverty",
+      "About 30 per cent lived in poverty"
+    ],
+    "answer": 3,
+    "explanation": "His findings were published from 1889."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-19",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What did Rowntree’s 1899 survey of York show?",
+    "options": [
+      "Poverty was only in London",
+      "Nobody was poor",
+      "It was lower in York",
+      "A similar level of poverty to London"
+    ],
+    "answer": 3,
+    "explanation": "Poverty was widespread, not just in London."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-20",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What did the Boer War reveal about public health?",
+    "options": [
+      "Vaccines worked",
+      "Many working-class recruits were unfit to fight",
+      "Recruits were healthy",
+      "Doctors were too few"
+    ],
+    "answer": 1,
+    "explanation": "It caused concern for national fitness."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-21",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Which Liberal reform of 1911 provided health insurance for workers?",
+    "options": [
+      "The Children Act",
+      "The National Insurance Act",
+      "The school meals Act",
+      "The Old Age Pensions Act"
+    ],
+    "answer": 1,
+    "explanation": "It gave sick pay and free GP care."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-22",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What did the Liberal reforms of 1906–1914 include?",
+    "options": [
+      "Rationing",
+      "Free hospitals",
+      "The NHS",
+      "Free school meals, medical inspections and pensions"
+    ],
+    "answer": 3,
+    "explanation": "They laid foundations for the welfare state."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-23",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "How did the Second World War affect public health?",
+    "options": [
+      "Hospitals closed",
+      "Health worsened",
+      "Rationing improved diets and evacuation exposed poverty",
+      "Poverty ended"
+    ],
+    "answer": 2,
+    "explanation": "It led to the Beveridge Report."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-24",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What were the ‘five giants’ named in the Beveridge Report?",
+    "options": [
+      "Want, disease, ignorance, squalor and idleness",
+      "Death, tax, pain, hunger and fire",
+      "Poverty, crime, war, fear and debt",
+      "War, hunger, plague, fire and flood"
+    ],
+    "answer": 0,
+    "explanation": "The report shaped the welfare state."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-25",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "Who was responsible for creating the NHS?",
+    "options": [
+      "Winston Churchill",
+      "Aneurin Bevan",
+      "David Lloyd George",
+      "William Beveridge"
+    ],
+    "answer": 1,
+    "explanation": "It launched in 1948."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-26",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What was a problem facing the NHS in the 21st century?",
+    "options": [
+      "Rising costs of an ageing population and new treatments",
+      "Too few patients",
+      "Too few diseases",
+      "No funding"
+    ],
+    "answer": 0,
+    "explanation": "Lifestyle diseases add pressure."
+  },
+  {
+    "id": "y11-medicine-modern-medicine-27",
+    "topic": "y11-medicine-modern-medicine",
+    "question": "What happened in England in 2007?",
+    "options": [
+      "Prescriptions became free",
+      "Smoking was banned in enclosed public places",
+      "The NHS was created",
+      "Penicillin was discovered"
+    ],
+    "answer": 1,
+    "explanation": "It was a public health measure."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-01",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What are the two main parts of a motte and bailey castle?",
+    "options": [
+      "The motte, a mound with a tower, and the bailey, an enclosed courtyard",
+      "A keep and a moat",
+      "A wall and a tower",
+      "A gatehouse and a drawbridge"
+    ],
+    "answer": 0,
+    "explanation": "Both were usually protected by a wooden fence and ditch."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-02",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "Why were Norman castles often built in towns and near river crossings?",
+    "options": [
+      "To be hidden",
+      "To avoid enemies",
+      "To control people, trade and routes",
+      "To use the water"
+    ],
+    "answer": 2,
+    "explanation": "Location mattered for control."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-03",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What was the advantage of a stone keep over a wooden castle?",
+    "options": [
+      "It was easier to move",
+      "It was cheaper",
+      "It was stronger and fireproof",
+      "It was quicker to build"
+    ],
+    "answer": 2,
+    "explanation": "But it took much longer and cost more."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-04",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "Which is an example of an early Norman stone keep?",
+    "options": [
+      "Pevensey Castle in 1066",
+      "The White Tower in London",
+      "A Windsor motte",
+      "Hastings Castle in 1066"
+    ],
+    "answer": 1,
+    "explanation": "It showed William’s power."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-05",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What were arrow loops in castle walls for?",
+    "options": [
+      "Letting in light",
+      "Letting in air",
+      "Draining water",
+      "Letting archers fire while protected"
+    ],
+    "answer": 3,
+    "explanation": "They were narrow slits."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-06",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What functions did Norman castles serve?",
+    "options": [
+      "School",
+      "Church",
+      "Military base, home, and centre of local government",
+      "Market only"
+    ],
+    "answer": 2,
+    "explanation": "They also symbolised Norman power."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-07",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What happened to houses in towns such as Lincoln when castles were built?",
+    "options": [
+      "They were extended",
+      "Nothing happened",
+      "They were moved",
+      "Many were destroyed"
+    ],
+    "answer": 3,
+    "explanation": "Anglo-Saxon townspeople lost homes."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-08",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "Which castles did William first build after landing in 1066?",
+    "options": [
+      "Pevensey and Hastings",
+      "London and Winchester",
+      "York and Durham",
+      "Dover and Windsor"
+    ],
+    "answer": 0,
+    "explanation": "They were wooden."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-09",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What are typical features of Norman cathedrals?",
+    "options": [
+      "Tall spires and flying buttresses",
+      "Pointed arches and large windows",
+      "Round arches, thick walls and small windows",
+      "Domes"
+    ],
+    "answer": 2,
+    "explanation": "This is the Romanesque style."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-10",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "Why did the Normans rebuild many English cathedrals?",
+    "options": [
+      "To show their power and support the Church reforms of Lanfranc",
+      "To rebuild after wars",
+      "To save money",
+      "To store food"
+    ],
+    "answer": 0,
+    "explanation": "They replaced Anglo-Saxon churches."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-11",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What is notable about Durham Cathedral?",
+    "options": [
+      "It was begun in 1066",
+      "It is a castle",
+      "It was begun in 1093 and houses the shrine of St Cuthbert",
+      "It was built by Alfred"
+    ],
+    "answer": 2,
+    "explanation": "It also had rib vaults."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-12",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "Why was Battle Abbey built?",
+    "options": [
+      "As a school",
+      "As penance for the deaths at Hastings, with the altar at the spot where Harold fell",
+      "To store treasure",
+      "As a castle"
+    ],
+    "answer": 1,
+    "explanation": "William founded it."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-13",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What buildings were found around a monastery’s cloister?",
+    "options": [
+      "Church, chapter house, dormitory and refectory",
+      "School only",
+      "Castle and market",
+      "Barracks"
+    ],
+    "answer": 0,
+    "explanation": "Monks lived by the rule of St Benedict."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-14",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What was a manor in the Norman countryside?",
+    "options": [
+      "A market",
+      "A church",
+      "A castle",
+      "An estate run by a lord, with peasants working the land"
+    ],
+    "answer": 3,
+    "explanation": "Peasants worked the lord’s demesne."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-15",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "Who chooses the specified historic environment site, and how often does it change?",
+    "options": [
+      "The school each year",
+      "AQA specifies it and it changes annually",
+      "Teachers choose",
+      "The Government every ten years"
+    ],
+    "answer": 1,
+    "explanation": "It is published three years ahead."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-16",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "How many marks is the historic environment essay on Paper 2 Section B worth?",
+    "options": [
+      "16",
+      "20",
+      "8",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "It tests change, continuity, cause and consequence."
+  },
+  {
+    "id": "y11-historic-environment-norman-england-17",
+    "topic": "y11-historic-environment-norman-england",
+    "question": "What proportion of the course is the historic environment?",
+    "options": [
+      "50 per cent",
+      "5 per cent",
+      "25 per cent",
+      "10 per cent"
+    ],
+    "answer": 3,
+    "explanation": "About 12 hours of teaching."
+  }
+]

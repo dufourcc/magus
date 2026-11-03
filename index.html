@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Magus: history revision</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<style>
+:root{--bg:#dde6fb;--surface:#fff;--ink:#1b1740;--muted:#5f5c88;--line:#d6dcf1;--p:#6f5cdc;--p2:#5846c2;--ptint:#ece8ff;--ok:#0f8a64;--oktint:#dff5ec;--bad:#c93a55;--badtint:#fde6ea;--shadow:0 6px 24px rgba(60,40,160,.10);
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f0d24;--surface:#1a1740;--ink:#eeebff;--muted:#a29fcc;--line:#2c2860;--p:#8f7bff;--p2:#a899ff;--ptint:#2a2562;--ok:#4fd1a1;--oktint:#12362c;--bad:#ff7d93;--badtint:#3d1b27;--shadow:0 6px 24px rgba(0,0,0,.4);color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f0d24;--surface:#1a1740;--ink:#eeebff;--muted:#a29fcc;--line:#2c2860;--p:#8f7bff;--p2:#a899ff;--ptint:#2a2562;--ok:#4fd1a1;--oktint:#12362c;--bad:#ff7d93;--badtint:#3d1b27;--shadow:0 6px 24px rgba(0,0,0,.4);color-scheme:dark}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Plus Jakarta Sans",system-ui,sans-serif;min-height:100vh}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--p);outline-offset:2px}
+.top{max-width:880px;margin:0 auto;padding:16px;display:flex;justify-content:space-between;align-items:center}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.25rem;border:0;background:none;padding:0}
+.mark{width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--p),#a56bff);color:#fff;display:grid;place-items:center;font-weight:800}
+.theme{border:1px solid var(--line);background:var(--surface);border-radius:99px;padding:6px 14px;font-size:.85rem;font-weight:600}
+main{max-width:880px;margin:0 auto;padding:0 16px 48px}
+.hero{background:linear-gradient(135deg,var(--p),#8a5cf0);color:#fff;border-radius:20px;padding:26px 22px;margin-bottom:20px;box-shadow:var(--shadow)}
+.hero h1{margin:0 0 4px;font-size:clamp(1.5rem,5vw,2rem);line-height:1.15}
+.hero p{margin:0;opacity:.92}
+.years{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;margin-bottom:12px}
+.yr{flex:0 0 auto;border:2px solid var(--line);background:var(--surface);border-radius:99px;padding:8px 18px;font-weight:700}
+.yr[aria-pressed="true"]{background:var(--p);border-color:var(--p);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+.topic{text-align:left;background:var(--surface);border:2px solid var(--line);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:6px;min-height:112px;box-shadow:var(--shadow)}
+.topic:hover:not([disabled]){border-color:var(--p)}
+.topic strong{font-size:1.02rem;line-height:1.3}
+.topic small{color:var(--muted);font-weight:600}
+.topic .go{margin-top:auto;color:var(--p);font-weight:700}
+.topic[disabled]{opacity:.55;cursor:default;box-shadow:none}
+.qhead{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.x{border:2px solid var(--line);background:var(--surface);border-radius:12px;width:40px;height:40px;font-size:1.1rem;flex:0 0 auto}
+.bar{flex:1;height:12px;background:var(--line);border-radius:99px;overflow:hidden}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--p),#a56bff);border-radius:99px;transition:width .3s}
+.count{font-weight:700;font-size:.9rem;white-space:nowrap}
+.card{background:var(--surface);border:2px solid var(--line);border-radius:20px;padding:22px 18px;box-shadow:var(--shadow)}
+.meta{display:flex;justify-content:space-between;gap:8px;color:var(--muted);font-weight:600;font-size:.85rem;margin-bottom:10px;flex-wrap:wrap}
+.q{font-size:clamp(1.15rem,3.6vw,1.45rem);font-weight:700;line-height:1.35;margin:0 0 18px;outline:0}
+.opts{display:flex;flex-direction:column;gap:10px}
+.opt{display:flex;gap:12px;align-items:center;text-align:left;width:100%;background:var(--surface);border:2px solid var(--line);border-radius:14px;padding:13px 14px;font-weight:600}
+.opt .k{flex:0 0 30px;height:30px;border-radius:9px;background:var(--ptint);color:var(--p);display:grid;place-items:center;font-weight:800;font-size:.9rem}
+.opt:hover:not([disabled]){border-color:var(--p)}
+.opt[aria-checked="true"]{border-color:var(--p);background:var(--ptint)}
+.opt[aria-checked="true"] .k{background:var(--p);color:#fff}
+.opt.right{border-color:var(--ok);background:var(--oktint)}
+.opt.right .k{background:var(--ok);color:#fff}
+.opt.wrong{border-color:var(--bad);background:var(--badtint)}
+.opt.wrong .k{background:var(--bad);color:#fff}
+.opt .tag{margin-left:auto;font-size:.8rem;font-weight:800}
+.opt[disabled]{cursor:default}
+.cta{margin-top:18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.btn{border:0;border-radius:14px;background:var(--p);color:#fff;font-weight:800;padding:14px 26px;box-shadow:0 4px 0 var(--p2)}
+.btn:active{transform:translateY(2px);box-shadow:0 2px 0 var(--p2)}
+.btn.ghost{background:var(--surface);color:var(--ink);border:2px solid var(--line);box-shadow:none}
+.warn{color:var(--bad);font-weight:700;font-size:.9rem}
+.streak{font-weight:700}
+.sheet-bg{position:fixed;inset:0;background:rgba(15,10,50,.5);display:flex;align-items:flex-end;justify-content:center;z-index:20}
+.sheet{width:100%;max-width:640px;background:var(--surface);border-radius:24px 24px 0 0;padding:22px 20px calc(22px + env(safe-area-inset-bottom,0px));border-top:6px solid var(--ok);animation:up .22s ease-out}
+.sheet.bad{border-top-color:var(--bad)}
+.sheet h2{margin:0 0 6px;font-size:1.35rem;display:flex;gap:10px;align-items:center}
+.ic{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;color:#fff;background:var(--ok);font-size:1rem}
+.bad .ic{background:var(--bad)}
+.sheet p{margin:6px 0}
+.ans{background:var(--oktint);border-radius:12px;padding:10px 12px;font-weight:700}
+@keyframes up{from{transform:translateY(40px);opacity:0}to{transform:none;opacity:1}}
+.res{text-align:center}
+.ring{position:relative;width:150px;height:150px;margin:6px auto 12px}
+.ring svg{transform:rotate(-90deg)}
+.ring b{position:absolute;inset:0;display:grid;place-items:center;font-size:1.9rem;font-weight:800}
+.rev{text-align:left;margin-top:16px}
+.rev div{border-top:1px solid var(--line);padding:10px 0;font-size:.95rem}
+.empty{text-align:center;padding:30px 10px;color:var(--muted);font-weight:600}
+.hd{font-size:1.3rem;margin:4px 2px 12px}
+.topic{padding:0;overflow:hidden;gap:0;min-height:0}
+.th{position:relative;overflow:hidden;padding:16px;min-height:118px;display:flex;justify-content:space-between;align-items:flex-start;gap:10px;color:#2b2540}
+.th::after{content:"";position:absolute;right:-26px;bottom:-40px;width:140px;height:140px;border-radius:50%;background:rgba(255,255,255,.38)}
+.th>span:first-child{position:relative;z-index:1;max-width:64%}
+.th small{display:block;color:#3b3560;margin-top:4px}
+.c0 .th{background:#f8bfb0}.c1 .th{background:#c9c3fb}.c2 .th{background:#b9e6d3}.c3 .th{background:#f7e0a6}
+.rg{position:relative;z-index:1;flex:0 0 auto;background:#fff;border-radius:12px;width:52px;height:52px;display:grid;place-items:center}
+.tf{display:flex;align-items:center;gap:6px;padding:13px 14px;background:var(--surface)}
+.seg{flex:1;height:8px;border-radius:99px;background:var(--ptint);overflow:hidden}
+.seg i{display:block;height:100%;background:var(--p)}
+.tf .go{margin:0 0 0 4px;font-size:1.3rem;line-height:1}
+.qbar{background:var(--p);color:#fff;border-radius:18px;display:flex;align-items:center;gap:10px;padding:10px 12px;margin-bottom:12px}
+.qbar .x{background:rgba(255,255,255,.22);border:0;color:#fff}
+.qbar h2{flex:1;margin:0;text-align:center;font-size:1rem}
+.qbar .count{color:#fff;min-width:46px;text-align:right}
+.dots{display:flex;justify-content:center;gap:8px;margin:2px 0 14px;flex-wrap:wrap}
+.dot{width:16px;height:16px;border-radius:50%;background:var(--line);display:grid;place-items:center;font-size:.6rem;color:#fff;font-weight:800}
+.dot.ok{background:var(--ok)}.dot.no{background:var(--bad)}.dot.cur{background:var(--surface);outline:2px solid var(--p);outline-offset:1px}
+.opt{justify-content:center;text-align:center;position:relative;min-height:64px;font-weight:500}
+.opt .k{display:none}
+.opt .tag{position:absolute;top:-10px;right:-6px;margin:0;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;color:#fff;font-size:.9rem;background:var(--ok)}
+.opt.wrong .tag{background:var(--bad)}
+.opt.right,.opt.wrong{background:var(--surface)}
+.q{font-weight:600}
+@media (prefers-reduced-motion:reduce){.sheet{animation:none}.bar i{transition:none}}
+@media (max-width:360px){.card{padding:18px 12px}.btn{width:100%}.hero{padding:20px 16px}}
+</style>
+</head>
+<body>
+<div class="top"><button class="logo" id="home" aria-label="Magus home"><span class="mark">M</span>Magus</button><button class="theme" id="theme" aria-label="Switch colour theme">Theme</button></div>
+<main id="app"><p class="empty">Loading questions…</p></main>
+<script>
+let UNITS={7:[],8:[],9:[],10:[],11:[]};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+let rejected=0,Q=[];
+const SESSION=10;
+let yr=7,run=null;const BEST={};
+
+// Theme (light, dark, or follow the device)
+function applyTheme(t){if(t)document.documentElement.setAttribute("data-theme",t)}
+try{applyTheme(localStorage.getItem("magus-theme")||"light")}catch(e){applyTheme("light")}
+$("theme").onclick=()=>{
+  const dark=document.documentElement.getAttribute("data-theme")==="dark"||(!document.documentElement.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme:dark)").matches);
+  const t=dark?"light":"dark";applyTheme(t);try{localStorage.setItem("magus-theme",t)}catch(e){}
+};
+$("home").onclick=()=>{run=null;draw()};
+
+function topics(){
+  const n=u=>Q.filter(x=>x.y===yr&&x.u===u).length;
+  return `<h1 class="hd">What are you revising?</h1>
+  <div class="years" role="group" aria-label="Year group">${[7,8,9,10,11].map(y=>`<button class="yr" data-y="${y}" aria-pressed="${y===yr}">Year ${y}</button>`).join("")}</div>
+  <div class="grid">${UNITS[yr].map((u,i)=>{const c=n(i),b=BEST[yr+"-"+i],pc=b||0,R=2*Math.PI*15;
+    const segs=[0,1,2,3].map(k=>`<span class="seg"><i style="width:${Math.max(0,Math.min(1,(pc-25*k)/25))*100}%"></i></span>`).join("");
+    return `<button class="topic c${i%4}" data-u="${i}" ${c?"":"disabled"}><span class="th"><span><strong>${esc(u)}</strong><small>${c?c+" questions"+(b!==undefined?" · best "+b+"%":""):"Questions coming soon"}</small></span><span class="rg" aria-hidden="true"><svg width="38" height="38" viewBox="0 0 38 38" style="transform:rotate(-90deg)"><circle cx="19" cy="19" r="15" fill="none" stroke="#dcdce4" stroke-width="5"/><circle cx="19" cy="19" r="15" fill="none" stroke="#6cbf4a" stroke-width="5" stroke-linecap="round" stroke-dasharray="${R*pc/100} ${R}"/></svg></span></span><span class="tf">${segs}<span class="go" aria-hidden="true">›</span></span></button>`}).join("")}</div>`;
+}
+function start(u){
+  const list=shuffle(Q.filter(x=>x.y===yr&&x.u===u)).slice(0,SESSION);
+  if(!list.length)return;
+  run={u,list,i:0,sel:null,done:false,right:0,streak:0,missed:[],res:[],warn:false};nextOrder();draw();
+}
+function nextOrder(){run.ord=shuffle(run.list[run.i].o.map((_,i)=>i))}
+function quiz(){
+  const q=run.list[run.i],T=run.list.length,L="ABCDEFGHIJ";
+  const opts=run.ord.map((oi,p)=>{
+    const st=run.done?(oi===q.a?"right":oi===run.sel?"wrong":""):"";
+    const tag=run.done?(oi===q.a?`<span class="tag" role="img" aria-label="Correct answer">✓</span>`:oi===run.sel?`<span class="tag" role="img" aria-label="Your answer, incorrect">✗</span>`:""):"";
+    return `<button class="opt ${st}" role="radio" aria-checked="${run.sel===oi}" data-o="${oi}" ${run.done?"disabled":""}><span class="k">${L[p]}</span><span>${esc(q.o[oi])}</span>${tag}</button>`}).join("");
+  const right=run.sel===q.a;
+  return `<div class="qbar"><button class="x" id="quit" aria-label="Leave this round and return to topics">✕</button><h2>${esc(UNITS[yr][run.u])}</h2><span class="count">${run.i+1} / ${T}</span></div><div class="dots" role="img" aria-label="Question ${run.i+1} of ${T}">${Array.from({length:T},(_,k)=>{const r=run.res[k];return `<span class="dot ${r===undefined?(k===run.i?"cur":""):r?"ok":"no"}" aria-hidden="true">${r===undefined?"":r?"✓":"✗"}</span>`}).join("")}</div>
+  <div class="card"><div class="meta"><span>${esc(UNITS[yr][run.u])}</span><span class="streak">Streak: ${run.streak}</span></div>
+  <h1 class="q" id="qt" tabindex="-1">${esc(q.q)}</h1>
+  <div class="opts" role="radiogroup" aria-labelledby="qt">${opts}</div>
+  ${run.done?"":`<div class="cta"><button class="btn" id="submit">Check answer</button>${run.warn?`<span class="warn" role="alert">Choose an answer first.</span>`:""}</div>`}</div>
+  ${run.done?`<div class="sheet-bg"><div class="sheet ${right?"":"bad"}" role="dialog" aria-modal="true" aria-labelledby="fbT"><h2 id="fbT"><span class="ic" aria-hidden="true">${right?"✓":"✗"}</span>${right?"Correct":"Not quite"}</h2>
+  ${right?"":`<p class="ans">Correct answer: ${esc(q.o[q.a])}</p>`}<p>${esc(q.e)}</p><div class="cta"><button class="btn" id="next">${run.i+1<T?"Continue":"See results"}</button></div></div></div>`:""}`;
+}
+function results(){
+  const T=run.list.length,pct=Math.round(run.right/T*100),C=2*Math.PI*52;
+  const msg=pct>=80?"Excellent recall.":pct>=50?"Good progress. A second round will lock it in.":"Worth another go. Every round helps it stick.";
+  return `<div class="card res"><div class="meta" style="justify-content:center">${esc(UNITS[yr][run.u])}</div><h1 class="q" id="qt" tabindex="-1" style="margin-bottom:6px">Round complete</h1>
+  <div class="ring"><svg width="150" height="150" viewBox="0 0 120 120" aria-hidden="true"><circle cx="60" cy="60" r="52" fill="none" stroke="var(--line)" stroke-width="10"/><circle cx="60" cy="60" r="52" fill="none" stroke="var(--p)" stroke-width="10" stroke-linecap="round" stroke-dasharray="${C*pct/100} ${C}"/></svg><b>${run.right}/${T}</b></div>
+  <p>${msg}</p><div class="cta" style="justify-content:center"><button class="btn" id="retry">Another round</button><button class="btn ghost" id="back">Back to topics</button></div>
+  ${run.missed.length?`<div class="rev"><strong>Worth reviewing</strong>${run.missed.map(m=>`<div><b>${esc(m.q)}</b><br>Answer: ${esc(m.o[m.a])}</div>`).join("")}</div>`:""}</div>`;
+}
+function draw(){
+  const a=$("app");
+  if(!Q.length){a.innerHTML=`<p class="empty">No questions are available right now. Please try again later.</p>`;return}
+  a.innerHTML=!run?topics():run.i>=run.list.length?results():quiz();
+  const f=a.querySelector("#fbT")?$("next"):a.querySelector("#qt");if(f&&run)f.focus({preventScroll:true});
+}
+function pickOpt(oi){if(!run||run.done||run.i>=run.list.length)return;run.sel=oi;run.warn=false;draw()}
+function submit(){
+  if(run.done)return;                              // FR-009: ignore repeat submissions
+  if(run.sel===null){run.warn=true;draw();return}
+  const q=run.list[run.i];run.done=true;run.res[run.i]=run.sel===q.a?1:0;
+  if(run.sel===q.a){run.right++;run.streak++}else{run.streak=0;run.missed.push(q)}
+  draw();
+}
+document.addEventListener("click",e=>{
+  const b=e.target.closest("button");if(!b)return;
+  if(b.dataset.y){yr=+b.dataset.y;draw()}
+  else if(b.dataset.u!==undefined)start(+b.dataset.u);
+  else if(b.dataset.o!==undefined)pickOpt(+b.dataset.o);
+  else if(b.id==="submit")submit();
+  else if(b.id==="next"){run.i++;run.sel=null;run.done=false;if(run.i>=run.list.length){const k=yr+"-"+run.u,pp=Math.round(run.right/run.list.length*100);BEST[k]=Math.max(BEST[k]||0,pp)}if(run.i<run.list.length)nextOrder();draw()}
+  else if(b.id==="quit"){if(confirm("Leave this round? Your answers won’t be kept.")){run=null;draw()}}
+  else if(b.id==="retry")start(run.u);
+  else if(b.id==="back"){run=null;draw()}
+});
+document.addEventListener("keydown",e=>{
+  if(!run||run.done||run.i>=run.list.length||e.ctrlKey||e.metaKey||e.altKey)return;
+  const n=parseInt(e.key,10);if(n>=1&&n<=run.ord.length){pickOpt(run.ord[n-1]);const el=document.querySelector(".opt[aria-checked=true]");if(el)el.focus()}
+});
+async function init(){
+  const get=async f=>{const r=await fetch(f);if(!r.ok)throw new Error(f+" "+r.status);return r.json()};
+  try{
+    const topics=await get("data/topics.json");
+    const idx={};
+    topics.forEach(tp=>{if(!UNITS[tp.year])return;UNITS[tp.year].push(tp.title);idx[tp.id]={y:tp.year,u:UNITS[tp.year].length-1}});
+    const files=await Promise.all([7,8,9,10,11].map(y=>get("data/y"+y+".json").catch(err=>{console.warn("Missing data file for year",y,err);return[]})));
+    const seen=new Set();
+    files.flat().forEach(x=>{
+      // Validation (FR-011): skip questions with missing fields, a bad answer index, an unknown topic or a duplicate id
+      const ok=x&&x.question&&Array.isArray(x.options)&&x.options.length>=2&&Number.isInteger(x.answer)&&x.answer>=0&&x.answer<x.options.length&&x.explanation&&idx[x.topic]&&!seen.has(x.id);
+      if(!ok){rejected++;console.warn("Rejected question",x&&x.id);return}
+      seen.add(x.id);Q.push({id:x.id,y:idx[x.topic].y,u:idx[x.topic].u,q:x.question,o:x.options,a:x.answer,e:x.explanation});
+    });
+    draw();
+  }catch(err){
+    console.error(err);
+    $("app").innerHTML='<p class="empty">Sorry, the questions could not be loaded. Check your connection and try again.</p><p style="text-align:center"><button class="btn" onclick="location.reload()">Try again</button></p>';
+  }
+}
+init();
+</script>
+</body>
+</html>

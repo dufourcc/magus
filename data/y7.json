@@ -1,0 +1,145 @@
+[
+  {
+    "id": "y7-anglo-saxons-and-normans-01",
+    "topic": "y7-anglo-saxons-and-normans",
+    "question": "Which battle did King Harold Godwinson win just before Hastings?",
+    "options": [
+      "Stamford Bridge",
+      "Fulford Gate",
+      "Hastings",
+      "Bosworth"
+    ],
+    "answer": 0,
+    "explanation": "Harold beat Harald Hardrada at Stamford Bridge in September 1066, then marched south to face William."
+  },
+  {
+    "id": "y7-anglo-saxons-and-normans-02",
+    "topic": "y7-anglo-saxons-and-normans",
+    "question": "In what year was the Battle of Hastings?",
+    "options": [
+      "1006",
+      "1066",
+      "1086",
+      "1166"
+    ],
+    "answer": 1,
+    "explanation": "The battle took place on 14 October 1066."
+  },
+  {
+    "id": "y7-anglo-saxons-and-normans-03",
+    "topic": "y7-anglo-saxons-and-normans",
+    "question": "What did the Normans build to control the land after the Conquest?",
+    "options": [
+      "Motte and bailey castles",
+      "Roman roads",
+      "Cathedrals only",
+      "Viking longhouses"
+    ],
+    "answer": 0,
+    "explanation": "Castles were quick to build and let a small number of Normans control a large area."
+  },
+  {
+    "id": "y7-anglo-saxons-and-normans-04",
+    "topic": "y7-anglo-saxons-and-normans",
+    "question": "What was the Domesday Book, completed in 1086?",
+    "options": [
+      "A survey of land and wealth in England",
+      "A law code",
+      "A list of Norman knights only",
+      "A map of Normandy"
+    ],
+    "answer": 0,
+    "explanation": "William used it to record who owned what, so he could tax it fairly (and effectively)."
+  },
+  {
+    "id": "y7-anglo-saxons-and-normans-05",
+    "topic": "y7-anglo-saxons-and-normans",
+    "question": "What was the Harrying of the North (1069-70)?",
+    "options": [
+      "William’s brutal destruction of northern rebellions",
+      "A Viking raid",
+      "Harold’s march to York",
+      "A Saxon festival"
+    ],
+    "answer": 0,
+    "explanation": "William burned villages and crops to crush rebellion, an example of control through fear."
+  },
+  {
+    "id": "y7-medieval-england-01",
+    "topic": "y7-medieval-england",
+    "question": "Which document did King John agree to in 1215?",
+    "options": [
+      "Magna Carta",
+      "Domesday Book",
+      "The Bill of Rights",
+      "The Act of Supremacy"
+    ],
+    "answer": 0,
+    "explanation": "Magna Carta limited the king’s power and said he was subject to the law."
+  },
+  {
+    "id": "y7-medieval-england-02",
+    "topic": "y7-medieval-england",
+    "question": "In which year did the Black Death reach England?",
+    "options": [
+      "1248",
+      "1348",
+      "1448",
+      "1548"
+    ],
+    "answer": 1,
+    "explanation": "It arrived in 1348 and killed roughly a third to a half of the population."
+  },
+  {
+    "id": "y7-the-tudors-01",
+    "topic": "y7-the-tudors",
+    "question": "What was Henry VIII’s “Great Matter”?",
+    "options": [
+      "His wish to annul his marriage to Catherine of Aragon",
+      "A war with France",
+      "His coronation",
+      "The dissolution of the monasteries"
+    ],
+    "answer": 0,
+    "explanation": "Henry wanted a male heir; when the Pope refused an annulment, he broke with Rome."
+  },
+  {
+    "id": "y7-the-tudors-02",
+    "topic": "y7-the-tudors",
+    "question": "In which year was the Spanish Armada defeated?",
+    "options": [
+      "1558",
+      "1588",
+      "1603",
+      "1649"
+    ],
+    "answer": 1,
+    "explanation": "Fireships, English tactics and storms defeated the Armada in 1588."
+  },
+  {
+    "id": "y7-the-stuarts-and-civil-war-01",
+    "topic": "y7-the-stuarts-and-civil-war",
+    "question": "Who led the Gunpowder Plot of 1605?",
+    "options": [
+      "Robert Catesby",
+      "Oliver Cromwell",
+      "Thomas Cromwell",
+      "Walter Raleigh"
+    ],
+    "answer": 0,
+    "explanation": "Catesby led the plotters; Guy Fawkes was caught guarding the gunpowder."
+  },
+  {
+    "id": "y7-the-stuarts-and-civil-war-02",
+    "topic": "y7-the-stuarts-and-civil-war",
+    "question": "Who led the Parliamentarian New Model Army?",
+    "options": [
+      "Charles I",
+      "Oliver Cromwell",
+      "Prince Rupert",
+      "James I"
+    ],
+    "answer": 1,
+    "explanation": "The New Model Army was formed in 1645 and Cromwell became its key figure."
+  }
+]

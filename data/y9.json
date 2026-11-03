@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "y9-the-weimar-republic-1918-1939-01",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What led to the creation of the Weimar Republic in 1918?",
+    "options": [
+      "The Kaiser abdicated after defeat in WW1",
+      "Hitler took power",
+      "A Communist revolution succeeded",
+      "Germany won the war"
+    ],
+    "answer": 0,
+    "explanation": "The Kaiser fled and Germany became a democratic republic, which many blamed for the defeat."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-02",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What did many Germans call the Treaty of Versailles?",
+    "options": [
+      "Diktat",
+      "Reich",
+      "Putsch",
+      "Dawes Plan"
+    ],
+    "answer": 0,
+    "explanation": "‘Diktat’ means a dictated peace: Germany was not allowed to negotiate."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-03",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Why did hyperinflation hit Germany in 1923?",
+    "options": [
+      "The government printed money after the French occupied the Ruhr",
+      "The Wall Street Crash",
+      "Reparations were cancelled",
+      "The Kaiser returned"
+    ],
+    "answer": 0,
+    "explanation": "Workers in the Ruhr went on strike, so the government printed money to pay them, and money lost its value."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-04",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Which plan of 1924 loaned money to Germany and helped recovery?",
+    "options": [
+      "Dawes Plan",
+      "Young Plan",
+      "Schlieffen Plan",
+      "Marshall Plan"
+    ],
+    "answer": 0,
+    "explanation": "American loans under the Dawes Plan helped the economy, though it relied on US money."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-05",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Who was the German politician most associated with the recovery of the mid-1920s?",
+    "options": [
+      "Gustav Stresemann",
+      "Paul von Hindenburg",
+      "Heinrich Himmler",
+      "Wolfgang Kapp"
+    ],
+    "answer": 0,
+    "explanation": "Stresemann introduced the Rentenmark in 1923 and negotiated the Dawes Plan."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-06",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "In which month and year did Kaiser Wilhelm II abdicate?",
+    "options": [
+      "January 1919",
+      "August 1914",
+      "June 1919",
+      "November 1918"
+    ],
+    "answer": 3,
+    "explanation": "Defeat, revolution and war weariness forced him to abdicate and flee to the Netherlands."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-07",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Who became the first President of the Weimar Republic?",
+    "options": [
+      "Friedrich Ebert",
+      "Karl Liebknecht",
+      "Gustav Stresemann",
+      "Paul von Hindenburg"
+    ],
+    "answer": 0,
+    "explanation": "Ebert, a Social Democrat, led the new government and became President in 1919."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-08",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Why was the new constitution drawn up in the town of Weimar?",
+    "options": [
+      "Berlin was too unstable and violent after the war",
+      "Weimar was the Kaiser’s home town",
+      "Weimar was the largest city in Germany",
+      "Berlin had been destroyed by bombing"
+    ],
+    "answer": 0,
+    "explanation": "Unrest in Berlin made it unsafe for the National Assembly to meet there in 1919."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-09",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What was a weakness of proportional representation in the Weimar constitution?",
+    "options": [
+      "It stopped women from voting",
+      "It banned small parties",
+      "It produced many small parties and weak coalition governments",
+      "It gave one party total control"
+    ],
+    "answer": 2,
+    "explanation": "Governments rarely had a majority, so they were unstable and often collapsed."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-10",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What did Article 48 of the Weimar constitution allow?",
+    "options": [
+      "Judges to dismiss the Chancellor",
+      "The army to run elections",
+      "The Reichstag to remove the Kaiser",
+      "The President to rule by decree in an emergency"
+    ],
+    "answer": 3,
+    "explanation": "Article 48 was later used to bypass the Reichstag, which weakened democracy."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-11",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Who led the Spartacist uprising of January 1919?",
+    "options": [
+      "Adolf Hitler and Ernst Röhm",
+      "Wolfgang Kapp and Erich Ludendorff",
+      "Rosa Luxemburg and Karl Liebknecht",
+      "Friedrich Ebert and Philipp Scheidemann"
+    ],
+    "answer": 2,
+    "explanation": "The communist uprising was crushed by the army and the right-wing Freikorps."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-12",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "How was the Kapp Putsch of 1920 defeated?",
+    "options": [
+      "Parliament voted Kapp out",
+      "The army fought the rebels",
+      "By a general strike of Berlin workers",
+      "The Allies sent troops"
+    ],
+    "answer": 2,
+    "explanation": "The army would not fire on the rebels, but strikes paralysed Berlin and Kapp fled."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-13",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Which two countries occupied the Ruhr in January 1923?",
+    "options": [
+      "France and Belgium",
+      "Poland and Russia",
+      "Britain and the USA",
+      "France and Britain"
+    ],
+    "answer": 0,
+    "explanation": "They occupied it when Germany missed a reparations payment."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-14",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "How did German workers in the Ruhr react to the occupation?",
+    "options": [
+      "They fought the soldiers",
+      "They went on strike in passive resistance",
+      "They welcomed the troops",
+      "They moved to Berlin"
+    ],
+    "answer": 1,
+    "explanation": "The government paid the strikers by printing money, which fed hyperinflation."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-15",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Who suffered most from hyperinflation?",
+    "options": [
+      "Foreign investors",
+      "People with large debts",
+      "People living on savings or fixed incomes",
+      "Owners of land and factories"
+    ],
+    "answer": 2,
+    "explanation": "Savings became worthless, while people with debts could pay them off cheaply."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-16",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "Which new currency helped end hyperinflation in 1923?",
+    "options": [
+      "The pound sterling",
+      "The Rentenmark",
+      "The Goldmark of 1914",
+      "The US dollar"
+    ],
+    "answer": 1,
+    "explanation": "It was introduced in November 1923 and limited the supply of money."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-17",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What did Germany agree to in the Locarno Treaties of 1925?",
+    "options": [
+      "To leave the League of Nations",
+      "To rebuild its army",
+      "To accept its western borders with France and Belgium",
+      "To return Alsace-Lorraine to Poland"
+    ],
+    "answer": 2,
+    "explanation": "Locarno helped Germany regain trust, and it joined the League of Nations in 1926."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-18",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What did the Young Plan of 1929 do?",
+    "options": [
+      "Cut the reparations total and gave Germany longer to pay",
+      "Gave Germany American loans",
+      "Cancelled reparations completely",
+      "Increased reparations"
+    ],
+    "answer": 0,
+    "explanation": "It reduced the yearly burden, though many Germans still resented paying anything."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-19",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What was the Bauhaus?",
+    "options": [
+      "A newspaper",
+      "A political party",
+      "A Nazi youth organisation",
+      "A German school of art, design and architecture"
+    ],
+    "answer": 3,
+    "explanation": "It was a leading example of the creative Weimar culture of the 1920s."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-20",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What was one aim of the German Navy Laws before the First World War?",
+    "options": [
+      "To end the arms race",
+      "To fund social reform",
+      "To reduce the army",
+      "To build a large navy and win public support"
+    ],
+    "answer": 3,
+    "explanation": "They also stirred up nationalism at home and worried Britain."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-21",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "How much were German reparations fixed at in 1921?",
+    "options": [
+      "132 billion gold marks",
+      "13 billion gold marks",
+      "1.3 billion gold marks",
+      "1,320 million pounds"
+    ],
+    "answer": 0,
+    "explanation": "This was about £6.6 billion, a huge burden on the German economy."
+  },
+  {
+    "id": "y9-the-weimar-republic-1918-1939-22",
+    "topic": "y9-the-weimar-republic-1918-1939",
+    "question": "What limit did the Treaty of Versailles place on the German army?",
+    "options": [
+      "100,000 men",
+      "1 million men",
+      "500,000 men",
+      "10,000 men"
+    ],
+    "answer": 0,
+    "explanation": "Germany was also banned from having an air force, tanks or submarines."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-01",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What was the Munich Putsch (1923)?",
+    "options": [
+      "Hitler’s failed attempt to seize power in Bavaria",
+      "A Communist uprising in Berlin",
+      "A general strike",
+      "The Reichstag fire"
+    ],
+    "answer": 0,
+    "explanation": "Hitler was jailed, wrote Mein Kampf and decided to seek power through elections."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-02",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "How did the Wall Street Crash help the Nazis?",
+    "options": [
+      "Unemployment rose and people turned to extreme parties",
+      "Reparations ended",
+      "The Weimar economy boomed",
+      "Hindenburg resigned"
+    ],
+    "answer": 0,
+    "explanation": "Mass unemployment made the Nazi promises of work and bread more appealing."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-03",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "When was Hitler appointed Chancellor?",
+    "options": [
+      "January 1933",
+      "March 1933",
+      "August 1934",
+      "November 1923"
+    ],
+    "answer": 0,
+    "explanation": "President Hindenburg appointed him on 30 January 1933."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-04",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Which party did Hitler join in 1919 and later lead?",
+    "options": [
+      "The Social Democratic Party",
+      "The Centre Party",
+      "The Communist Party",
+      "The German Workers’ Party, later the Nazi Party"
+    ],
+    "answer": 3,
+    "explanation": "It was renamed the National Socialist German Workers’ Party in 1920."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-05",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What was the role of the SA?",
+    "options": [
+      "To spy on Nazi leaders",
+      "To lead the German army",
+      "To protect Nazi meetings and attack opponents",
+      "To run Nazi propaganda"
+    ],
+    "answer": 2,
+    "explanation": "The SA, or Brownshirts, used violence and intimidation."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-06",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Where did Hitler write Mein Kampf?",
+    "options": [
+      "In Vienna",
+      "In Landsberg prison",
+      "In Berlin",
+      "In a Munich hotel"
+    ],
+    "answer": 1,
+    "explanation": "He wrote it after the failed Munich Putsch, setting out his ideas about race and living space."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-07",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What share of the vote did the Nazis win in the 1928 election?",
+    "options": [
+      "About 25 per cent",
+      "About 37 per cent",
+      "About 2.6 per cent",
+      "About 50 per cent"
+    ],
+    "answer": 2,
+    "explanation": "Support rose sharply only after the Depression began."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-08",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Which election made the Nazis the largest party in the Reichstag?",
+    "options": [
+      "July 1932",
+      "May 1928",
+      "November 1923",
+      "March 1933"
+    ],
+    "answer": 0,
+    "explanation": "They won over 37 per cent but still had no overall majority."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-09",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Why did many Germans support the Nazis during the Depression?",
+    "options": [
+      "Unemployment was high and Hitler promised work and strong leadership",
+      "The Nazis had cut taxes",
+      "The Nazis were already in government",
+      "The Nazis had ended reparations"
+    ],
+    "answer": 0,
+    "explanation": "By 1932 around six million people were unemployed."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-10",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Which groups did Hitler blame for Germany’s problems?",
+    "options": [
+      "Jews, communists and the Treaty of Versailles",
+      "Britain and America",
+      "Industrialists and farmers",
+      "The army and the Church"
+    ],
+    "answer": 0,
+    "explanation": "Scapegoating gave people someone to blame and united Nazi supporters."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-11",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Who persuaded President Hindenburg to appoint Hitler as Chancellor?",
+    "options": [
+      "Joseph Goebbels",
+      "Franz von Papen and other conservative advisers",
+      "Ernst Röhm",
+      "Heinrich Himmler"
+    ],
+    "answer": 1,
+    "explanation": "They believed they could control Hitler, with Papen as Vice-Chancellor."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-12",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Who was blamed for the Reichstag Fire in February 1933?",
+    "options": [
+      "A Jewish student",
+      "A Dutch communist, Marinus van der Lubbe",
+      "Ernst Röhm",
+      "Paul von Hindenburg"
+    ],
+    "answer": 1,
+    "explanation": "Hitler used the fire to suspend civil rights and arrest communists."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-13",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What did the Decree for the Protection of the People and State do?",
+    "options": [
+      "Banned the SA",
+      "Made Hitler Führer",
+      "Created the Gestapo",
+      "Suspended civil liberties after the Reichstag Fire"
+    ],
+    "answer": 3,
+    "explanation": "It let the Nazis arrest opponents without trial."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-14",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What was the result of the March 1933 election?",
+    "options": [
+      "The Nazis were banned",
+      "The Nazis won about 44 per cent but not a majority",
+      "The Nazis won a majority",
+      "The Communists won"
+    ],
+    "answer": 1,
+    "explanation": "They needed other parties to pass the Enabling Act."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-15",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Which party voted against the Enabling Act in March 1933?",
+    "options": [
+      "The Social Democrats (SPD)",
+      "The Nazi Party",
+      "The Nationalists",
+      "The Centre Party"
+    ],
+    "answer": 0,
+    "explanation": "Communist deputies were already arrested or in hiding, and the SA surrounded the hall."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-16",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What replaced independent trade unions in May 1933?",
+    "options": [
+      "The German Labour Front",
+      "The Hitler Youth",
+      "The SA",
+      "The Reich Chamber of Culture"
+    ],
+    "answer": 0,
+    "explanation": "The Labour Front, led by Robert Ley, controlled workers on behalf of the Nazis."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-17",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "Why did Hitler order the Night of the Long Knives in 1934?",
+    "options": [
+      "To attack Jewish businesses",
+      "To remove Röhm and the SA, who threatened the army and his power",
+      "To stop a communist rising",
+      "To remove Hindenburg"
+    ],
+    "answer": 1,
+    "explanation": "The killings won the army’s support and made the SS more powerful."
+  },
+  {
+    "id": "y9-hitlers-rise-to-power-1919-1933-18",
+    "topic": "y9-hitlers-rise-to-power-1919-1933",
+    "question": "What happened when Hindenburg died in August 1934?",
+    "options": [
+      "Hitler combined the roles of Chancellor and President as Führer",
+      "The Kaiser returned",
+      "Hindenburg’s son became President",
+      "New elections were held"
+    ],
+    "answer": 0,
+    "explanation": "The army also swore an oath of loyalty to Hitler personally."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-01",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What did the Enabling Act of March 1933 allow?",
+    "options": [
+      "Hitler to pass laws without the Reichstag",
+      "Women to vote",
+      "Free elections",
+      "Hitler to become Kaiser"
+    ],
+    "answer": 0,
+    "explanation": "It gave Hitler dictatorial power and was passed after the Reichstag fire."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-02",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What was the Night of the Long Knives (1934)?",
+    "options": [
+      "The purge of the SA leadership",
+      "The attack on Jewish shops",
+      "The Reichstag fire",
+      "The burning of books"
+    ],
+    "answer": 0,
+    "explanation": "Hitler had Ernst Röhm and other SA leaders killed to win the army’s support."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-03",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What was Joseph Goebbels’ job in the Nazi government?",
+    "options": [
+      "Minister of War",
+      "Head of the SS",
+      "Head of the Gestapo",
+      "Minister of Propaganda"
+    ],
+    "answer": 3,
+    "explanation": "He controlled newspapers, radio, film and the arts."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-04",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What happened at the book burnings of May 1933?",
+    "options": [
+      "Libraries were closed",
+      "Nazi books were published",
+      "Books by Jewish, communist and other ‘un-German’ authors were destroyed",
+      "Schools were rebuilt"
+    ],
+    "answer": 2,
+    "explanation": "They showed Nazi hostility to ideas that opposed their views."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-05",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Why did the Nazis sell cheap radios called People’s Receivers?",
+    "options": [
+      "To spread foreign news",
+      "To help the radio industry",
+      "So that more people could hear Nazi broadcasts",
+      "To pay for rearmament"
+    ],
+    "answer": 2,
+    "explanation": "Radios let Hitler’s speeches reach almost every home."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-06",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "How did the Nazis use the 1936 Berlin Olympics?",
+    "options": [
+      "To raise taxes",
+      "As propaganda to show Germany as strong and successful",
+      "To start the war",
+      "To hide the concentration camps"
+    ],
+    "answer": 1,
+    "explanation": "Anti-Jewish signs were temporarily removed for foreign visitors."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-07",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What was the Gestapo?",
+    "options": [
+      "The secret state police",
+      "The Nazi radio service",
+      "The SS army",
+      "The Nazi youth movement"
+    ],
+    "answer": 0,
+    "explanation": "It used informers and arrests to frighten people into obedience."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-08",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Which Nazi leader controlled the SS and later all German police?",
+    "options": [
+      "Rudolf Hess",
+      "Heinrich Himmler",
+      "Joseph Goebbels",
+      "Hermann Göring"
+    ],
+    "answer": 1,
+    "explanation": "Himmler built the SS into a state within the state."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-09",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Which was the first Nazi concentration camp, opened in 1933?",
+    "options": [
+      "Treblinka",
+      "Auschwitz",
+      "Belsen",
+      "Dachau"
+    ],
+    "answer": 3,
+    "explanation": "It first held political opponents such as communists."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-10",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What were the People’s Courts used for?",
+    "options": [
+      "Settling local disputes",
+      "Hearing appeals",
+      "Trying war criminals",
+      "Trying cases of treason, with Nazi-loyal judges"
+    ],
+    "answer": 3,
+    "explanation": "They were set up in 1934 and rarely acquitted anyone."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-11",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What was Martin Niemöller’s stand against the Nazis?",
+    "options": [
+      "He ran the Gestapo",
+      "He helped Hitler run the Hitler Youth",
+      "He led Protestant pastors who opposed Nazi control of the Church",
+      "He led a communist uprising"
+    ],
+    "answer": 2,
+    "explanation": "He was sent to a concentration camp."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-12",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Who were the main members of the White Rose group?",
+    "options": [
+      "University students in Munich, including Hans and Sophie Scholl",
+      "Army officers",
+      "Young Nazis",
+      "Factory workers"
+    ],
+    "answer": 0,
+    "explanation": "They distributed leaflets against the regime and were executed in 1943."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-13",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Who were the Swing Youth?",
+    "options": [
+      "Nazi musicians",
+      "A communist youth group",
+      "Young people who enjoyed banned jazz and swing music",
+      "Members of the Hitler Youth"
+    ],
+    "answer": 2,
+    "explanation": "Their music and style broke Nazi rules on culture."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-14",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Who were the Edelweiss Pirates?",
+    "options": [
+      "Young Nazi spies",
+      "Working-class teenagers who resisted the Hitler Youth",
+      "Members of the SS",
+      "University students"
+    ],
+    "answer": 1,
+    "explanation": "They sometimes attacked Hitler Youth patrols and helped deserters."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-15",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "Who planted the bomb in the July 1944 plot to kill Hitler?",
+    "options": [
+      "Erwin Rommel",
+      "Claus von Stauffenberg",
+      "Hans Scholl",
+      "Ernst Röhm"
+    ],
+    "answer": 1,
+    "explanation": "The bomb exploded at Hitler’s headquarters, but he survived."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-16",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What was ‘degenerate art’ to the Nazis?",
+    "options": [
+      "Art made by children",
+      "Art praised by Hitler",
+      "Modern art that they banned and mocked",
+      "Art about farming"
+    ],
+    "answer": 2,
+    "explanation": "The Nazis preferred realistic art showing Aryan ideals."
+  },
+  {
+    "id": "y9-nazi-control-and-dictatorship-1933-1939-17",
+    "topic": "y9-nazi-control-and-dictatorship-1933-1939",
+    "question": "What was the purpose of the Nuremberg Rallies?",
+    "options": [
+      "To elect Nazi leaders",
+      "To raise money",
+      "To show Nazi power and loyalty to Hitler through mass displays",
+      "To plan the war"
+    ],
+    "answer": 2,
+    "explanation": "They were carefully staged propaganda events."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-01",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "Which event of November 1938 saw Jewish homes, shops and synagogues attacked?",
+    "options": [
+      "Kristallnacht",
+      "The Munich Putsch",
+      "The Anschluss",
+      "The Nuremberg Rally"
+    ],
+    "answer": 0,
+    "explanation": "It is known as the Night of Broken Glass, and showed how persecution was escalating."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-02",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "How did the building of the autobahns help the Nazis?",
+    "options": [
+      "It ended rationing",
+      "It created jobs and showed progress",
+      "It paid for rearmament",
+      "It gave Jews work"
+    ],
+    "answer": 1,
+    "explanation": "Public works schemes reduced unemployment."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-03",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was the Reich Labour Service (RAD)?",
+    "options": [
+      "A women’s group",
+      "Compulsory work for young men for six months",
+      "A secret police unit",
+      "A Nazi trade union"
+    ],
+    "answer": 1,
+    "explanation": "It lowered unemployment figures and gave military-style discipline."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-04",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "Why were Nazi unemployment figures misleading?",
+    "options": [
+      "They included only the army",
+      "They ignored Berlin",
+      "They counted too many people",
+      "Jews, women and many others were not counted"
+    ],
+    "answer": 3,
+    "explanation": "Real unemployment was higher than the official figures."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-05",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was the League of German Girls (BDM)?",
+    "options": [
+      "A Nazi charity",
+      "A school for nurses",
+      "A women’s trade union",
+      "The Nazi organisation for girls"
+    ],
+    "answer": 3,
+    "explanation": "It trained girls to be wives and mothers."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-06",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was the Nazi view of women’s role?",
+    "options": [
+      "To work in factories",
+      "To lead the Hitler Youth",
+      "To serve in the army",
+      "To stay at home as wives and mothers"
+    ],
+    "answer": 3,
+    "explanation": "Women were encouraged to have large families, and marriage loans and the Mother’s Cross rewarded them."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-07",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "How did the Nazis change education?",
+    "options": [
+      "Teachers had to join the Nazi Teachers League and teach race studies",
+      "Schools were closed",
+      "Pupils chose their subjects",
+      "Religious teaching increased"
+    ],
+    "answer": 0,
+    "explanation": "Textbooks were rewritten to support Nazi ideas."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-08",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What did the Nuremberg Laws of 1935 do?",
+    "options": [
+      "Banned the Nazi Party",
+      "Took away German citizenship from Jews and banned marriage with Germans",
+      "Gave Jews equal rights",
+      "Created ghettos"
+    ],
+    "answer": 1,
+    "explanation": "They made persecution legal."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-09",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What triggered Kristallnacht in November 1938?",
+    "options": [
+      "The Anschluss",
+      "The shooting of a German diplomat in Paris by a Jewish teenager",
+      "The outbreak of war",
+      "A Jewish uprising in Berlin"
+    ],
+    "answer": 1,
+    "explanation": "Ernst vom Rath’s death was used as an excuse for a planned attack."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-10",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What were ghettos?",
+    "options": [
+      "Army bases",
+      "Walled-off areas where Jews were forced to live",
+      "Prisons for politicians",
+      "Nazi labour camps"
+    ],
+    "answer": 1,
+    "explanation": "They were set up in Poland after 1939 with terrible conditions."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-11",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was decided at the Wannsee Conference in January 1942?",
+    "options": [
+      "How to organise the ‘Final Solution’",
+      "How to invade Russia",
+      "How to end the war",
+      "How to rebuild Berlin"
+    ],
+    "answer": 0,
+    "explanation": "The murder of European Jews was planned."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-12",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "Which of these was an extermination camp?",
+    "options": [
+      "Dachau",
+      "Treblinka",
+      "Colditz",
+      "Buchenwald"
+    ],
+    "answer": 1,
+    "explanation": "Camps such as Treblinka and Auschwitz-Birkenau were built to murder people."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-13",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was the T4 programme?",
+    "options": [
+      "A youth scheme",
+      "A rearmament plan",
+      "A road-building scheme",
+      "The killing of disabled people whom the Nazis considered unfit"
+    ],
+    "answer": 3,
+    "explanation": "Nazi ideas about a ‘master race’ led to the murder of many disabled people."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-14",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "Who else, apart from Jews, did the Nazis persecute?",
+    "options": [
+      "Farmers and soldiers",
+      "Engineers",
+      "Priests only",
+      "Roma and Sinti, homosexuals and political opponents"
+    ],
+    "answer": 3,
+    "explanation": "They were treated as inferior or as threats to the Aryan race."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-15",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was the aim of the Four Year Plan of 1936?",
+    "options": [
+      "To end unemployment",
+      "To build autobahns",
+      "To cut taxes",
+      "To make Germany ready for war and self-sufficient"
+    ],
+    "answer": 3,
+    "explanation": "It was led by Hermann Göring and boosted rearmament."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-16",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What did Goebbels call for in his 1943 Sportpalast speech?",
+    "options": [
+      "An end to the war",
+      "Total War",
+      "A ban on churches",
+      "Peace with Russia"
+    ],
+    "answer": 1,
+    "explanation": "It called for all Germans to commit fully to the war effort."
+  },
+  {
+    "id": "y9-life-in-nazi-germany-1933-1939-17",
+    "topic": "y9-life-in-nazi-germany-1933-1939",
+    "question": "What was one impact of Allied bombing on German civilians?",
+    "options": [
+      "Factories grew",
+      "Cities such as Hamburg and Dresden were devastated and people were left homeless",
+      "Rationing ended",
+      "Food became cheap"
+    ],
+    "answer": 1,
+    "explanation": "Bombing and shortages hit civilians hard."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-01",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Who became king after Edward the Confessor died in January 1066?",
+    "options": [
+      "Harold Godwinson",
+      "William of Normandy",
+      "Harald Hardrada",
+      "Edgar Atheling"
+    ],
+    "answer": 0,
+    "explanation": "Harold was chosen by the Witan, but Harald and William also claimed the throne."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-02",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Where did William land his army in September 1066?",
+    "options": [
+      "Pevensey",
+      "Dover",
+      "York",
+      "Hastings"
+    ],
+    "answer": 0,
+    "explanation": "He landed at Pevensey and moved to Hastings to attract Harold."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-03",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "What is the Bayeux Tapestry?",
+    "options": [
+      "An embroidered picture story of the Norman Conquest",
+      "A map of England",
+      "A land survey",
+      "A Saxon law code"
+    ],
+    "answer": 0,
+    "explanation": "It was made after the Conquest and is a key source, but it was produced from a Norman perspective."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-04",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Why was Harold’s army weakened before Hastings?",
+    "options": [
+      "It had marched from fighting at Stamford Bridge",
+      "It was too small to fight",
+      "It had no archers",
+      "It was fighting in Wales"
+    ],
+    "answer": 0,
+    "explanation": "His army marched south after fighting Hardrada in the north, around 250 miles."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-05",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Why did William of Normandy claim the English throne?",
+    "options": [
+      "He was Harold’s brother",
+      "He said Edward the Confessor had promised it and Harold had sworn to support him",
+      "He had been elected by the witan",
+      "He was Edward’s son"
+    ],
+    "answer": 1,
+    "explanation": "According to Norman sources Harold swore an oath in 1064."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-06",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Who was Edgar Aethling?",
+    "options": [
+      "The king of Norway",
+      "Harold’s brother",
+      "Edward the Confessor’s young great-nephew",
+      "Edward’s son"
+    ],
+    "answer": 2,
+    "explanation": "He was only a teenager, so the witan chose Harold instead."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-07",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Why was Harold Godwinson chosen as king in 1066?",
+    "options": [
+      "He was the most powerful earl and an experienced soldier",
+      "He had been crowned in Normandy",
+      "He was Edward’s son",
+      "He was the Pope’s choice"
+    ],
+    "answer": 0,
+    "explanation": "The witan wanted a strong leader."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-08",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Who was Harald Hardrada?",
+    "options": [
+      "William’s cousin",
+      "Harold’s brother",
+      "The King of Norway who also claimed the English throne",
+      "An English earl"
+    ],
+    "answer": 2,
+    "explanation": "He invaded the north of England in September 1066."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-09",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Why did Tostig join Harald Hardrada?",
+    "options": [
+      "He wanted to end the war",
+      "He wanted to be king of Norway",
+      "He had been exiled by his brother Harold and wanted revenge",
+      "He had been bribed by William"
+    ],
+    "answer": 2,
+    "explanation": "His rule in Northumbria had been rejected by rebels."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-10",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Which battle did Hardrada win on 20 September 1066?",
+    "options": [
+      "Fulford Gate",
+      "Hastings",
+      "Maldon",
+      "Stamford Bridge"
+    ],
+    "answer": 0,
+    "explanation": "He defeated the northern earls Edwin and Morcar."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-11",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "What was the Anglo-Saxon shield wall?",
+    "options": [
+      "Soldiers standing close together with overlapping shields",
+      "A cavalry charge",
+      "A wall around towns",
+      "A type of castle"
+    ],
+    "answer": 0,
+    "explanation": "It was strong, but vulnerable if men broke ranks to chase retreating enemies."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-12",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Who were the housecarls?",
+    "options": [
+      "Norman knights",
+      "Part-time peasant militia",
+      "The king’s full-time professional soldiers",
+      "Viking raiders"
+    ],
+    "answer": 2,
+    "explanation": "They fought with axes and formed the core of Harold’s army."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-13",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "What was the fyrd?",
+    "options": [
+      "The Norman cavalry",
+      "The part-time Anglo-Saxon army of local men",
+      "The king’s bodyguard",
+      "A type of tax"
+    ],
+    "answer": 1,
+    "explanation": "They had to return to their farms, so could not fight for long."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-14",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "What tactic did the Normans reportedly use at Hastings to break the shield wall?",
+    "options": [
+      "A night attack",
+      "Using gunpowder",
+      "Pretending to retreat to draw the English out",
+      "Attacking from the sea"
+    ],
+    "answer": 2,
+    "explanation": "The English line broke up when some men chased the ‘fleeing’ Normans."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-15",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "When was William crowned King of England?",
+    "options": [
+      "Easter 1068",
+      "1 January 1067",
+      "Christmas Day 1066",
+      "14 October 1066"
+    ],
+    "answer": 2,
+    "explanation": "He was crowned in Westminster Abbey."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-16",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Which castles did William build first after landing in 1066?",
+    "options": [
+      "Wooden castles at Pevensey and Hastings",
+      "Stone keeps at Dover",
+      "The Tower of London",
+      "Castles at York"
+    ],
+    "answer": 0,
+    "explanation": "They gave his army a secure base."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-17",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "What was a motte and bailey castle?",
+    "options": [
+      "A stone fortress with a moat",
+      "A wooden tower on a mound with a fenced courtyard",
+      "A town wall",
+      "A monastery"
+    ],
+    "answer": 1,
+    "explanation": "They were quick to build but could burn."
+  },
+  {
+    "id": "y9-anglo-saxon-england-and-the-norman-conquest-1060-18",
+    "topic": "y9-anglo-saxon-england-and-the-norman-conquest-1060",
+    "question": "Why did William carry out the Harrying of the North?",
+    "options": [
+      "To build castles",
+      "To collect taxes",
+      "To reward his knights",
+      "To crush rebellion and stop Danish support"
+    ],
+    "answer": 3,
+    "explanation": "He destroyed villages and crops, causing famine."
+  }
+]

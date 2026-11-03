@@ -1,0 +1,301 @@
+[
+  {
+    "id": "y8-world-war-one-01",
+    "topic": "y8-world-war-one",
+    "question": "What does the M in M.A.I.N. stand for?",
+    "options": [
+      "Militarism",
+      "Monarchy",
+      "Morale",
+      "Marching"
+    ],
+    "answer": 0,
+    "explanation": "The long-term causes of WW1 were Militarism, Alliances, Imperialism and Nationalism."
+  },
+  {
+    "id": "y8-world-war-one-02",
+    "topic": "y8-world-war-one",
+    "question": "What event in June 1914 triggered the outbreak of WW1?",
+    "options": [
+      "Assassination of Archduke Franz Ferdinand",
+      "The sinking of the Lusitania",
+      "The Battle of the Somme",
+      "The Russian Revolution"
+    ],
+    "answer": 0,
+    "explanation": "He was shot in Sarajevo on 28 June 1914, and the alliance system drew other countries in."
+  },
+  {
+    "id": "y8-world-war-one-03",
+    "topic": "y8-world-war-one",
+    "question": "The Battle of the Somme began in which year?",
+    "options": [
+      "1914",
+      "1915",
+      "1916",
+      "1918"
+    ],
+    "answer": 2,
+    "explanation": "The Somme began on 1 July 1916 and had enormous casualties for little ground gained."
+  },
+  {
+    "id": "y8-causes-of-world-war-2-01",
+    "topic": "y8-causes-of-world-war-2",
+    "question": "What did the Treaty of Versailles (1919) make Germany accept?",
+    "options": [
+      "Blame for the war and pay reparations",
+      "Join the League of Nations at once",
+      "Keep its army",
+      "Keep its colonies"
+    ],
+    "answer": 0,
+    "explanation": "Article 231 (the war guilt clause) justified the reparations."
+  },
+  {
+    "id": "y8-causes-of-world-war-2-02",
+    "topic": "y8-causes-of-world-war-2",
+    "question": "What was the policy of Appeasement?",
+    "options": [
+      "Giving in to a dictator’s demands to avoid war",
+      "Building up armaments",
+      "Invading Germany",
+      "Forming alliances with Russia"
+    ],
+    "answer": 0,
+    "explanation": "Britain and France allowed Hitler to take territory in the hope of avoiding another war."
+  },
+  {
+    "id": "y8-causes-of-world-war-2-03",
+    "topic": "y8-causes-of-world-war-2",
+    "question": "What began in 1929 and damaged the world economy?",
+    "options": [
+      "The Wall Street Crash",
+      "The Great Fire",
+      "The Treaty of Versailles",
+      "The Munich Agreement"
+    ],
+    "answer": 0,
+    "explanation": "The US recalled loans to Germany, increasing unemployment and extremism."
+  },
+  {
+    "id": "y8-world-war-2-01",
+    "topic": "y8-world-war-2",
+    "question": "What was Dunkirk (1940)?",
+    "options": [
+      "The evacuation of Allied troops from France",
+      "A major German defeat",
+      "An air battle",
+      "The D-Day landings"
+    ],
+    "answer": 0,
+    "explanation": "Over 300,000 troops were rescued, many by civilian ‘little ships’."
+  },
+  {
+    "id": "y8-empire-and-slavery-01",
+    "topic": "y8-empire-and-slavery",
+    "question": "What was the Middle Passage?",
+    "options": [
+      "The Atlantic crossing that carried enslaved Africans to the Americas",
+      "The route of the Silk Road",
+      "A slave market in West Africa",
+      "The return voyage with sugar"
+    ],
+    "answer": 0,
+    "explanation": "It was the middle leg of the triangular trade: Britain, Africa, the Caribbean and Americas, then back to Britain."
+  },
+  {
+    "id": "y8-empire-and-slavery-02",
+    "topic": "y8-empire-and-slavery",
+    "question": "Which West African city was a famous centre of trade and learning in the 1500s?",
+    "options": [
+      "Timbuktu",
+      "Lagos",
+      "Cairo",
+      "Cape Town"
+    ],
+    "answer": 0,
+    "explanation": "Timbuktu, in the Mali and Songhai empires, had universities and libraries. West Africa was not primitive."
+  },
+  {
+    "id": "y8-empire-and-slavery-03",
+    "topic": "y8-empire-and-slavery",
+    "question": "Which Act of 1807 ended Britain’s involvement in the slave trade?",
+    "options": [
+      "Slave Trade Act",
+      "Reform Act",
+      "Factory Act",
+      "Abolition of Slavery Act"
+    ],
+    "answer": 0,
+    "explanation": "The 1807 Act banned trading in enslaved people. Slavery itself continued until the 1833 Act."
+  },
+  {
+    "id": "y8-empire-and-slavery-04",
+    "topic": "y8-empire-and-slavery",
+    "question": "Who led the successful slave revolt in Haiti that began in 1791?",
+    "options": [
+      "Toussaint Louverture",
+      "William Wilberforce",
+      "Olaudah Equiano",
+      "Harriet Tubman"
+    ],
+    "answer": 0,
+    "explanation": "Enslaved people in Saint-Domingue overthrew French rule, and Haiti became independent in 1804."
+  },
+  {
+    "id": "y8-empire-and-slavery-05",
+    "topic": "y8-empire-and-slavery",
+    "question": "Which MP led the parliamentary campaign against the slave trade?",
+    "options": [
+      "William Wilberforce",
+      "Robert Peel",
+      "John Cabot",
+      "Oliver Cromwell"
+    ],
+    "answer": 0,
+    "explanation": "Wilberforce worked with campaigners such as Thomas Clarkson and Olaudah Equiano."
+  },
+  {
+    "id": "y8-industrial-revolution-01",
+    "topic": "y8-industrial-revolution",
+    "question": "Which invention did Richard Arkwright patent in 1769?",
+    "options": [
+      "The water frame",
+      "The spinning jenny",
+      "The steam engine",
+      "The flying shuttle"
+    ],
+    "answer": 0,
+    "explanation": "The water frame was powered by water, so it needed factories next to rivers, such as his mill at Cromford."
+  },
+  {
+    "id": "y8-industrial-revolution-02",
+    "topic": "y8-industrial-revolution",
+    "question": "Which Act of 1833 stopped children under nine working in textile factories?",
+    "options": [
+      "Factory Act",
+      "Mines Act",
+      "Poor Law",
+      "Public Health Act"
+    ],
+    "answer": 0,
+    "explanation": "The 1833 Factory Act also limited hours for older children and created factory inspectors."
+  },
+  {
+    "id": "y8-industrial-revolution-03",
+    "topic": "y8-industrial-revolution",
+    "question": "What caused cholera to spread in industrial towns?",
+    "options": [
+      "Water contaminated by sewage",
+      "Bad air only",
+      "Rats on ships",
+      "Cold weather"
+    ],
+    "answer": 0,
+    "explanation": "Overcrowded housing and poor sanitation spread it. John Snow linked an 1854 outbreak to a water pump in Soho."
+  },
+  {
+    "id": "y8-industrial-revolution-04",
+    "topic": "y8-industrial-revolution",
+    "question": "Who set up the Metropolitan Police in 1829?",
+    "options": [
+      "Robert Peel",
+      "Robert Walpole",
+      "Winston Churchill",
+      "William Pitt"
+    ],
+    "answer": 0,
+    "explanation": "Police officers were nicknamed Peelers or Bobbies after him."
+  },
+  {
+    "id": "y8-industrial-revolution-05",
+    "topic": "y8-industrial-revolution",
+    "question": "What was the main job of a child worker called a scavenger in a cotton mill?",
+    "options": [
+      "Crawling under moving machines to pick up loose cotton",
+      "Pulling coal trucks",
+      "Weaving cloth",
+      "Operating steam engines"
+    ],
+    "answer": 0,
+    "explanation": "It was dangerous work and many children lost fingers or were killed."
+  },
+  {
+    "id": "y8-democracy-01",
+    "topic": "y8-democracy",
+    "question": "What happened at Peterloo in 1819?",
+    "options": [
+      "Cavalry charged a crowd demanding parliamentary reform",
+      "A Chartist march reached London",
+      "A suffragette was killed",
+      "The Reform Act was signed"
+    ],
+    "answer": 0,
+    "explanation": "About 60,000 people gathered at St Peter’s Field, Manchester. Several were killed and hundreds injured."
+  },
+  {
+    "id": "y8-democracy-02",
+    "topic": "y8-democracy",
+    "question": "What did the Great Reform Act of 1832 do?",
+    "options": [
+      "Gave seats to growing towns and removed some rotten boroughs",
+      "Gave women the vote",
+      "Introduced a secret ballot",
+      "Gave all men the vote"
+    ],
+    "answer": 0,
+    "explanation": "It widened the vote a little, but most working-class men still could not vote."
+  },
+  {
+    "id": "y8-democracy-03",
+    "topic": "y8-democracy",
+    "question": "Which of these was one of the Chartists’ six points?",
+    "options": [
+      "A secret ballot",
+      "Votes for women",
+      "A republic",
+      "Free schools"
+    ],
+    "answer": 0,
+    "explanation": "The 1838 People’s Charter also demanded votes for all men over 21 and annual parliaments."
+  },
+  {
+    "id": "y8-democracy-04",
+    "topic": "y8-democracy",
+    "question": "Who founded the Women’s Social and Political Union in 1903?",
+    "options": [
+      "Emmeline Pankhurst",
+      "Millicent Fawcett",
+      "Emily Davison",
+      "Florence Nightingale"
+    ],
+    "answer": 0,
+    "explanation": "The WSPU were the suffragettes. Their motto was ‘Deeds not words’."
+  },
+  {
+    "id": "y8-democracy-05",
+    "topic": "y8-democracy",
+    "question": "What was the main difference between suffragists and suffragettes?",
+    "options": [
+      "Suffragists used peaceful methods",
+      "Suffragists wanted fewer rights",
+      "Suffragettes were male",
+      "Suffragettes were peaceful"
+    ],
+    "answer": 0,
+    "explanation": "Millicent Fawcett’s suffragists used petitions and campaigns; the suffragettes used militant tactics."
+  },
+  {
+    "id": "y8-democracy-06",
+    "topic": "y8-democracy",
+    "question": "Which group was excluded from voting in ancient Athens’ democracy?",
+    "options": [
+      "Women, slaves and foreigners",
+      "Landowners",
+      "Soldiers",
+      "Men over 30"
+    ],
+    "answer": 0,
+    "explanation": "Only adult male citizens voted, in a direct democracy."
+  }
+]
